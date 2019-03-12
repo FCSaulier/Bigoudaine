@@ -1,2 +1,3 @@
 The Bigoudaine uses Wamps that is auto purged
 It has a wooden stick that automatically adapts
+It needs an operator

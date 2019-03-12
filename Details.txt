@@ -1,1 +1,2 @@
 The Bigoudaine uses Wamps
+It has a wooden stick

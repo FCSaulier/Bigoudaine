@@ -1,4 +1,4 @@
-Added on the issue #4
+Added on the issue #4 and again...
 The Bigoudaine uses Wamps that is auto purged twice the speed
 It has a wooden stick that automatically adapts fast
 It needs an operator

@@ -1,2 +1,2 @@
-The Bigoudaine uses Wamps
-It has a wooden stick
+The Bigoudaine uses Wamps that is auto purged
+It has a wooden stick that automatically adapts
